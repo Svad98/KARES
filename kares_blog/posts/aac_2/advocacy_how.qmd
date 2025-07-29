@@ -1,0 +1,27 @@
+---
+title: "How can I Advocate for Multimodal Communication?"
+subtitle: "Shifting our Mindset on AAC (Part 2)"
+author: "Svetlana Djirackor"
+date: "2025-06-25"
+categories: [clinicians, families, AAC]
+---
+
+>
+Explore some free resources on how to incorporate and advocate for multimodal communication for your child.
+>
+
+![](../figures/advocacy_ways.png)
+
+One resource that is useful for documenting how your child communicates is [“How I Communicate” from PrAACtical AAC](https://praacticalaac.org/wp-content/uploads/filebase/downloads/How I Communicate.pptx).
+
+Knowing that everyone has the right to autonomous communication allows us to advocate properly for our KARES children. Gayle Porter, SLP and developer of PODD describes autonomous communication as 
+
+>
+“Being able to say whatever I want to say to whoever I want to say it to, whenever I want to say it.”
+>
+
+This does not mean _independent_ communication. Instead, it calls on the AAC user’s communication partner to jump in (only when necessary) to remind them of what the conversation was about or to come up with the word they were looking for. (More on this [later](../aac_3/supporting_aac_users.qmd)).
+
+Another resource on ways to advocate for your child’s communication: [ASHA Communication Bill of Rights](https://www.asha.org/njc/communication-bill-of-rights/?srsltid=AfmBOopv8KmqhjHzeVBTK5jgdUF2DtJC54g8xyhpHOv4-paIsUkE734r).
+
+Next, let's talk about some of the myths surrounding AAC use and the ways these can lead caregivers/families to be [reluctant to use AAC](reluctance.qmd).

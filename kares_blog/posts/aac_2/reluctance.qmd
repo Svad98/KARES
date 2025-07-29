@@ -1,0 +1,29 @@
+---
+title: "Why is there reluctance to Use AAC?"
+subtitle: "Shifting our Mindset on AAC (Part 3)"
+author: "Svetlana Djirackor"
+date: "2025-06-26"
+categories: [clinicians, families, AAC]
+---
+
+>
+AAC use is crucial in communication. So, why is there still reluctance to use AAC? Let’s discuss and debunk some myths around AAC use.
+>
+
+![](../figures/reluctance.png)
+
+## Myth 1
+
+### If my child uses AAC, they won’t be motivated to talk with their mouth
+**Actually:** AAC does NOT prevent a child from developing spoken language. Spoken language is the most efficient way to communicate. If a child can use spoken language, they will. According to research, access to AAC supports a child’s spoken language development (Millar, Light and Schlosser 2006). 
+
+## Myth 2
+### Once my child has a speech-generating device, they will immediately be able to communicate all their thoughts and repair communication breakdowns
+**Actually:** Learning to use a robust language system on a speech-generating device is like learning a new language. It takes time and effort to learn the location of all the messages.
+
+## Myth 3
+### Children have to be “ready” for robust AAC systems
+**Actually:** Children should not need to prove that they are ready and worthy to use robust AAC systems. There are no prerequisite skills needed for AAC. We don’t require babies to prove that they are ready to develop spoken language – so we don’t require minimally, unreliably, or non-speaking individuals  to prove that they are ready for robust AAC systems
+
+
+With these myths now debunked, let's dive into scenarios where we see a [power imbalance when communicating with AAC users](pwr_imbalance.qmd)

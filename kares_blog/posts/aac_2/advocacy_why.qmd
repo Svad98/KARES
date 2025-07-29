@@ -1,0 +1,33 @@
+---
+title: "Why Advocate for Multimodal Communication?"
+subtitle: "Shifting our Mindset on AAC (Part 1)"
+author: "Svetlana Djirackor"
+date: "2025-06-24"
+categories: [clinicians, families, AAC]
+---
+
+>
+We express ourselves in multiple ways. Here, we walk through practical examples of how multimodal communication is engrained in all our communication styles and how crucial it is to allow our children to utilize these different modalities.
+>
+
+![](../figures/advocacy_why.png)
+
+## Imagine 
+If someone told you that you could only use speech to express yourself – no vocalizations, no body language, no gestures, no facial expressions, nothing! That would be pretty difficult and make you appear quite strange, right? 
+
+If we are so dependent on multimodal communication in our day-to-day interactions, why limit our children – who have complex communication needs – to just one modality?
+
+## Again, imagine 
+Yourself walking past a friend in the hallway. Many times, if you’re rushing elsewhere and don’t have time to stop for a conversation, you’ll probably nod your head and smile. This would ensure that you acknowledge your friend while still getting on with your schedule. Would you consider the nod + smile as an ineffective mode of communication?
+
+We use the most efficient and effective mode of communication based on the situation. We can also extend this principle to AAC users who may resort to gestures in such contexts.
+
+## Let’s do this one more time. Imagine 
+That you received the most thoughtful gift from a loved one and you forgot where you put it. You’ve been searching for days and retracing your steps but can’t seem to find it. Then… during one of your searches, you spot it from the corner of your eye. You run to it and caress it in your hands. Maybe you even kiss it because you’ve been so desperate to find it and you finally have!
+
+In this state of heightened emotions, your body movement, gestures, and even facial expressions were more accessible to use than words. In KARES children, this is no different. There may be times of high emotional stress where they rely on their automatic mode of communication i.e., body movements, vocalizations or the AAC modality they were first introduced to.
+
+## Summary
+From these scenarios it’s becoming more and more clear just how important multimodal communication is for all of us. It is, therefore, important to support and encourage all forms/modes of communication. 
+
+Let's dig in to [ways you can advocate for multimodal communication for your child](../aac_2/advocacy_how.qmd).
