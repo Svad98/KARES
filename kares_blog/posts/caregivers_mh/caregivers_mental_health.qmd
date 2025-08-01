@@ -5,12 +5,11 @@ date: "2025-07-28"
 categories: [clinicians, families, AAC]
 --- 
 
+![](../figures/mental_health.png){width=30% fig-align="center"}
+
 >
 As KARES parents/caregivers, we may experience strain in our mental health from the point of our child’s diagnosis onward. In this blog, we discuss techniques to navigate these challenges and develop easy-to-implement coping strategies.
 >
-
-  ![](../figures/mental_health.png)
-
 
 ### Hope: Why does this matter?
 Around the world, the stigma surrounding mental health is decreasing every day. As KARES parents/caregivers, we can continue this effort by:  
@@ -61,7 +60,7 @@ Box breathing is a technique that helps calm feelings of stress or anxiety and c
 
 For ease, follow the box below to you practice this breathing technique
 
-![](box_breathing.png)
+![](../figures/box_breathing.png){width=40% fig-align="center"}
 
 This technique can be done multiple times and in different ways.
 
@@ -69,7 +68,7 @@ This technique can be done multiple times and in different ways.
 
 This triangle demonstrates how our thoughts, feelings, and behaviors affect one another. Understanding how these three factors connect can equip you to take control of any situation even when, at first, it may not feel like it is possible.
 
-![](cognitive_triangle.png)
+![](../figures/cognitive_triangle.png){width=40% fig-align="center"}
 
 One thing we can especially pay attention to is how we think. Let's discuss some thinking errors here; you may be even able to point out some that you've found yourself practicing:
 

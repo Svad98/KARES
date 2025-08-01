@@ -6,11 +6,11 @@ date: "2025-06-26"
 categories: [clinicians, families, AAC]
 ---
 
+![](../figures/reluctance.png){width=60% fig-align="center"}
+
 >
 AAC use is crucial in communication. So, why is there still reluctance to use AAC? Let’s discuss and debunk some myths around AAC use.
 >
-
-![](../figures/reluctance.png)
 
 ## Myth 1
 

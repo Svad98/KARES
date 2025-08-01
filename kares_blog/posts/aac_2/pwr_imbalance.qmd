@@ -6,11 +6,11 @@ date: "2025-06-27"
 categories: [clinicians, families, AAC]
 --- 
 
+![](../figures/pwr_imbalance.png){width=60% fig-align="center"}
+
 >
 As people who predominantly communicate by speech, the power imbalance between us and AAC users may not be immediately obvious to us. Here, we explore some imbalances and discuss ways to level the communication field.
 >
-
-![](../figures/pwr_imbalance.png)
 
 To be more mindful and inclusive in our communication, let’s consider the following:
 

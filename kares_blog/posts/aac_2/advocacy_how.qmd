@@ -6,11 +6,11 @@ date: "2025-06-25"
 categories: [clinicians, families, AAC]
 ---
 
+![](../figures/advocacy_ways.png){width=60% fig-align="center"}
+
 >
 Explore some free resources on how to incorporate and advocate for multimodal communication for your child.
 >
-
-![](../figures/advocacy_ways.png)
 
 One resource that is useful for documenting how your child communicates is [“How I Communicate” from PrAACtical AAC](https://praacticalaac.org/wp-content/uploads/filebase/downloads/How I Communicate.pptx).
 

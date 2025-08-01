@@ -5,9 +5,9 @@ date: "2025-06-22"
 categories: [clinicians, families, AAC]
 ---
 
-Communication is an essential part of building a connection with the people around us. In this blog, you'll begin the journey of learning how to foster robust communication with your child.
+![](../figures/comm_aac.png){width=60% fig-align="center"}
 
-![](../figures/comm_aac.png)
+Communication is an essential part of building a connection with the people around us. In this blog, you'll begin the journey of learning how to foster robust communication with your child.
 
 >
 “To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.” 

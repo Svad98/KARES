@@ -5,23 +5,25 @@ date: "2025-06-23"
 categories: [clinicians, families, AAC]
 ---
 
+![](../figures/what_is_aac.png){width=60% fig-align="center"}
+
 >
 AAC is an acronym for **A**ugmentative and **A**lternative **C**ommunication. Whether this is a new or foreign concept to you, this blog breaks down the basics of AAC and describes its various modalities.
 >
 
-![](../figures/what_is_aac.png)
+
 AAC involves supplementing (Augmentative) or replacing (Alternative) spoken language. In a nutshell, AAC includes all forms of communication besides speech. 
 
 When we think about the modalities of AAC, we often think of the following:
 
-![](aac_1_fig1.png) 
+![](aac_1_fig1.png){width=60% fig-align="center"}
 
 While these are certainly common modalities of AAC, it is important to know that AAC also includes
 
-![](aac_1_fig2.png)
+![](aac_1_fig2.png){width=60% fig-align="center"}
 
 Here's a helpful chart to understand the different types of AAC 
-![](aac_types.jpg){width=60% fig-align="center"}
+![](aac_types.jpg){width=50% fig-align="center"}
 
 Thinking of AAC in this manner is encouraged because it allows us to see that everyone uses AAC! The unaided modes of communication are more accessible to AAC users since they can use their bodies to communicate when other tools/objects are not easily available. 
 
