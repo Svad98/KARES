@@ -1,0 +1,45 @@
+---
+title: "Communication and AAC"
+subtitle: "Caitlin Burke, M.S., CCC-SLP"
+author: "Svetlana Djirackor"
+date: "2025-06-22"
+categories: [clinicians, families, AAC]
+---
+
+![](../figures/comm_aac.png){width=40% fig-align="center"}
+
+
+Communication is an essential part of building a connection with the people around us. In this blog, you'll begin the journey of learning how to foster robust communication with your child.
+
+## Listen to this post
+
+<audio controls>
+  <source src="../../audio/aac/comm_and_aac.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+ 
+## Intro to the Series
+
+>
+“To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.” 
+— Tony Robbins
+>
+
+
+This blog series on “Communication and AAC”, is a written summary of a lesson by Caitlin Burke, Speech-Language Pathologist and founder of The Little Speech Tree. 
+
+Here, the series is broken into 3 parts:
+
+1.	[What is AAC?](../aac_1/what_is_aac.qmd)
+2.	Shifting our Mindset
+    - [Why Advocate for Multimodal Communication?](../aac_2/advocacy_why.qmd)
+    - [How to Advocate for Multimodal Communication](../aac_2/advocacy_how.qmd)
+    - [Why is there reluctance to Use AAC?](../aac_2/reluctance.qmd)
+    - [Power Imbalances: Speaking vs AAC use](../aac_2/pwr_imbalance.qmd)
+3.	[Our Role in Supporting AAC Users](../aac_3/supporting_aac_users.qmd)
+
+You can find the [full video here](https://kares.foundation/video-library/v/nzhj574n4cwyh9ncbkbwygwb2bh7ag) with more in-depth examples and a Q&A session.
+
+Let's start learning with Part One of the series: [What is AAC?](../aac_1/what_is_aac.qmd)
+
+

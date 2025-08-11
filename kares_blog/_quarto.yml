@@ -1,19 +1,34 @@
 project:
   type: website
+  output-dir: docs
+  resources: audio/
+  preview:
+    host: 0.0.0.0
+    port: 5500
 
 website:
-  title: "kares_blog"
+  title: "KARES Blog Series"
   navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
+    left:
+      - text: "Home"
+        href: about.qmd
       - icon: twitter
         href: https://twitter.com
-format:
-  html:
-    theme: cosmo
-    css: styles.css
+  reader-mode: true
+  page-navigation: true
+  page-footer: "Copyright ©2022 KARES Foundation - KDM5C Advocacy, Research, Education & Support"
+ 
+#         
+# format:
+#   html:
+#     # theme:
+#     #   - litera
+#     #   - _brand.yml
+#     #   - style
+#     toc: true
+   
+brand: _brand.yml
+
 
 
 

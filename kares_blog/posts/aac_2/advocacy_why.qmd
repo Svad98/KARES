@@ -1,6 +1,6 @@
 ---
 title: "Why Advocate for Multimodal Communication?"
-subtitle: "Shifting our Mindset on AAC (Part 1)"
+subtitle: "Caitlin Burke, M.S., CCC-SLP"
 author: "Svetlana Djirackor"
 date: "2025-06-24"
 categories: [clinicians, families, AAC]
@@ -11,6 +11,14 @@ categories: [clinicians, families, AAC]
 >
 We express ourselves in multiple ways. Here, we walk through practical examples of how multimodal communication is engrained in all our communication styles and how crucial it is to allow our children to utilize these different modalities.
 >
+
+## Listen to this post
+
+<audio controls>
+  <source src="../../audio/aac/why_advocate_aac_mod.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 
 ## Imagine ![](../figures/imagine_1.png){width=20% fig-align="right"}
 
@@ -23,7 +31,7 @@ If we are so dependent on multimodal communication in our day-to-day interaction
 
 Yourself walking past a friend in the hallway. Many times, if you’re rushing elsewhere and don’t have time to stop for a conversation, you’ll probably nod your head and smile. This would ensure that you acknowledge your friend while still getting on with your schedule. Would you consider the nod + smile as an ineffective mode of communication?
 
-We use the most efficient and effective mode of communication based on the situation. We can also extend this principle to AAC users who may resort to gestures in such contexts.
+We use the most efficient and effective mode of communication based on the situation. We can also extend this principle to AAC users who may favor the use of gestures in such contexts.
 
 ## Let’s do this one more time. Imagine ![](../figures/imagine_3.png){width=20% fig-align="right"}
 

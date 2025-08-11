@@ -1,0 +1,36 @@
+---
+title: "What is AAC?"
+subtitle: "Caitlin Burke, M.S., CCC-SLP"
+author: "Svetlana Djirackor"
+date: "2025-06-23"
+categories: [clinicians, families, AAC]
+---
+
+![](../figures/what_is_aac.png){width=60% fig-align="center"}
+
+>
+AAC is an acronym for **A**ugmentative and **A**lternative **C**ommunication. Whether this is a new or foreign concept to you, this blog breaks down the basics of AAC and describes its various modalities.
+>
+
+## Listen to this post
+
+<audio controls>
+  <source src="../../audio/aac/what_is_aac_mod.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+## Intro to AAC
+
+AAC involves supplementing (Augmentative) or replacing (Alternative) spoken language. In a nutshell, AAC includes all forms of communication besides speech. 
+
+When we think about the modalities of AAC, we often think of the following:
+
+![](../figures/aac_1_fig1.png){width=60% fig-align="center"}
+
+While these are certainly common modalities of AAC, it is important to know that AAC also includes
+
+![](../figures/aac_1_fig2.png){width=60% fig-align="center"}
+
+Thinking of AAC in this manner is encouraged because it allows us to see that everyone uses AAC! The unaided modes of communication are more accessible to AAC users since they can use their bodies to communicate when other tools/objects are not easily available. 
+
+Now that we know what AAC is, let’s learn more about how to shift our mindset on the use of AAC.To do this, one question we can ask ourselves is: [Why should we advocate for multimodal communication?](../aac_2/advocacy_why.qmd)

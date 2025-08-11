@@ -1,6 +1,6 @@
 ---
-title: "How can I Advocate for Multimodal Communication?"
-subtitle: "Shifting our Mindset on AAC (Part 2)"
+title: "How To Advocate for Multimodal Communication"
+subtitle: "Caitlin Burke, M.S., CCC-SLP"
 author: "Svetlana Djirackor"
 date: "2025-06-25"
 categories: [clinicians, families, AAC]
@@ -9,8 +9,17 @@ categories: [clinicians, families, AAC]
 ![](../figures/advocacy_ways.png){width=60% fig-align="center"}
 
 >
-Explore some free resources on how to incorporate and advocate for multimodal communication for your child.
+In this blog, we explore some free resources on how to incorporate and advocate for multimodal communication for your child.
 >
+
+## Listen to this post
+
+<audio controls>
+  <source src="../../audio/aac/how_mod.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+## Resources
 
 One resource that is useful for documenting how your child communicates is [“How I Communicate” from PrAACtical AAC](https://praacticalaac.org/wp-content/uploads/filebase/downloads/How I Communicate.pptx).
 

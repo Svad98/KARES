@@ -1,6 +1,6 @@
 ---
 title: "Power Imbalances: Speaking vs AAC use"
-subtitle: "Shifting our Mindset on AAC (Part 4)"
+subtitle: "Caitlin Burke, M.S., CCC-SLP"
 author: "Svetlana Djirackor"
 date: "2025-06-27"
 categories: [clinicians, families, AAC]
@@ -12,6 +12,14 @@ categories: [clinicians, families, AAC]
 As people who predominantly communicate by speech, the power imbalance between us and AAC users may not be immediately obvious to us. Here, we explore some imbalances and discuss ways to level the communication field.
 >
 
+## Listen to this post
+
+<audio controls>
+  <source src="../../audio/aac/pwr_mod.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+## 
 To be more mindful and inclusive in our communication, let’s consider the following:
 
 ### Scenario 1:
@@ -23,22 +31,20 @@ We wait for the AAC user to initiate conversation or invite them to start the co
 
 ### Scenario 2:
 **Imbalance:**
-The speaking person often determined which mode of communication is “best” and forces the AAC user to use that mode. The AAC user may prefer to use a different mode of communication than the one being offered due to emotional or sensory dysregulation.
+The speaking person often determines which mode of communication is “best” and forces the AAC user to use that mode. The AAC user may prefer to use a different mode of communication than the one being offered due to emotional or sensory dysregulation.
 
 **Level:**
 Remember that AAC users are carrying multiple loads (sensory or motor) which can be impacted to different degrees throughout the day/depending on the context. We can level the scale by allowing the child to communicate with the mode they are most comfortable with at that time. 
 
 >
 Note: if you cannot understand what your child is saying, it may be helpful to ask them if they could clarify with their talker or gestures etc.
->
 
 ### Scenario 3:
 **Imbalance:**
-When the speaking person does not offer enough wait time before jumpin in and prompting the AAC user on what to say. The AAC User may feel that if they were just given a little more time, they could have formulated a message on their own. Without wait time, over time, the AAC user learns to wait to be prompted.
+When the speaking person does not offer enough wait time before jumping in and prompting the AAC user on what to say. The AAC User may feel that if they were just given a little more time, they could have formulated a message on their own. Without this wait time, over multiple occurrences, the AAC user learns to wait to be prompted.
 
 **Level:**
 Get comfortable sitting in the silence
-
 
 ### Scenario 4:
 **Imbalance:**
@@ -46,7 +52,6 @@ When the speaking person doesn’t confirm the meaning of the message or makes a
 
 **Level:**
 We can help a child clarify or co-construct a message with them. Again, using “I wonder” statements for instance, “I wonder if you want to do ____.”
-
 
 ### Scenario 5:
 **Imbalance:**

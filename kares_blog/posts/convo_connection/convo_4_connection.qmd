@@ -1,24 +1,31 @@
 ---
 title: "Conversations for Connection"
+subtitle: "Leah Lewis, MA, LMFT"
 author: "Svetlana Djirackor"
 date: "2025-07-31"
-categories: [clinicians, families, AAC]
+categories: [clinicians, families, mental health]
 ---
 
-![](../figures/convo_connection.png){width=60% fig-align="center"}
+![](../figures/convo_connection.png){width=50% fig-align="center"}
 
 >
 Recognizing trauma in ourselves and partner is crucial when cultivating the grace and compassion to get through the days and the years. In this blog, we walk through different strategies to maintain a connection with our partners as KARES parents/caregivers.
->
 
-#### Important note:
+## Listen to this post
+
+<audio controls>
+  <source src="../../audio/convo_connection/convo_connection.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+## Important note:
 Trauma is defined as a “deeply distressing or disturbing experience”. In this case, it is important to acknowledge that trauma is likely the lens through which we have experiences of parenting a child with a RARE diagnosis. This blog does not dispute or diminish the love and appreciation for our KARES children; instead, it holds this as a truth _and_ recognizes the challenges that parents/caregivers may face. Read on to understand the nuances in this topic.
 
 
 ## People Can Experience Trauma Differently… and that’s ok
 Two people can go through the same event but experience it in different ways. This can be a source of frustration in relationships when we don’t understand the differences in how our partner experienced something versus how we experienced _the same_ event. 
 
-Recognizing that we process things differently and identifying how we and our partners respond in different situations can increase our compassion and understanding of one other’s responses. This would mean, both our and our partners’ reactions would no longer be taken personally. 
+Recognizing that we process things differently and identifying how we and our partners respond in different situations can increase our compassion and understanding of one another’s responses. This would mean, both our and our partners’ reactions would no longer be taken personally. 
 
 Below is a range of how we experience parenting our KARES children. Can you relate to any of these?
 
@@ -35,33 +42,40 @@ Be sure to check in with each other and yourself so that you can take care of yo
 
 >
 Before I could release
+>
 The weight of my sadness
+>
 And pain, I first had to 
+>
 honor its existence
--	Yung Pueblo
+>
+--- _Yung Pueblo_
 >
 
 So what do we do when we see these trauma responses in ourselves?
 
 ## Tips for Self-Care and Regulation
 
-### Consciously prioritize yourself and your relationship. 
+![](../figures/self_care.png){width=40% fig-align="center"}
+
+#### Consciously prioritize yourself and your relationship. 
 We can get hyperfocused on our children. Intentionally take a step away from the busy household/schedule and take time to take care of each other. “Put the oxygen mask on yourself before your children” – this ensures you are well equipped to take care of everyone else who needs your support.
 
-### Recognize that what you might be experiencing at times is a cycle of grief. 
+#### Recognize that what you might be experiencing at times is a cycle of grief. 
 When we have a child with a diagnosis, we can look at parenting through the lens of grief which is not a linear process – can include anger, negotiation, acceptance etc.
 
-### Develop a self-care routine that is non-negotiable. 
+#### Develop a self-care routine that is non-negotiable. 
 Turn to the things you know that work or look for ideas online, social media etc.
 
-### Ensure that in your relationship, self-care is supported and encouraged
+#### Ensure that in your relationship, self-care is supported and encouraged
 Make supporting your own and one another’s needs an absolute baseline for survival! 
 
-### If the stress threshold has been surpassed, encourage extra self-care or seek professional support (individual or couple)
+#### If the stress threshold has been surpassed, encourage extra self-care or seek professional support (individual or couple)
 
 Be kind to yourself, knowing that there will be times when you are on top of your self-care routine and other times when life just prevents it from happening. The important thing is to _have_ a self-care strategy set up so you can access them as needed.
 
 ## The Tools for Tough Times
+![](../figures/tools.png){width=30% fig-align="center"}
 
 -	You and your partner are allies. Turn towards each other rather than away. I am here for you, I value you, we are getting through this. Team Us!
 
@@ -71,13 +85,15 @@ Be kind to yourself, knowing that there will be times when you are on top of you
 
 -	Find and connect with your tribe beyond the relationship (friends, neighbors, church, support groups etc). Our partner can’t be everything for us. When we expect that, we can often get let down because it is an unrealistic expectation for our partner. Tapping into our larger community can help a lot with this.
 
+>
 ## The Divine Pause:
-
-![](../figures/divine_pause.png){width=40% fig-align="center"}
-
+>
 When you start feeling in your body that you are feeling triggered by whatever is going on, take a second to regulate, breathe and remember you have choices and options about how you want to _respond_ rather than _react_.
 
 ## Fighting Fair: Techniques to Cool the Flames
+
+![](../figures/fight_fair.png){width=40% fig-align="center"}
+
 When you and your partner are already in a situation that is causing conflict between the two of you, using techniques to fight fair can create an environment where you can air your grievances but still be respectful of each other’s emotions.
 
 -	Make sure your start-up is soft rather than harsh
@@ -95,6 +111,8 @@ When you and your partner are already in a situation that is causing conflict be
 -	Remember, no one is right. There are always two subjective sides.
 
 ### With this mindset, here are some tips on how you can express yourself in difficult conversations
+
+![](../figures/convo.png){width=30% fig-align="center"}
 
 -	Complain don’t’ blame, watch for contempt, criticism: Remember “I feel” and “I need”. Good old “I statements”.
 
@@ -114,7 +132,7 @@ Here are some ways you can soothe yourself when feeling flooded
 
 -	Change Environment; go outside, move into a different room, etc
 
--	Box Breathing (link to previous blog)
+-	[Box Breathing](../caregivers_mh/caregivers_mental_health.qmd) 
 
 -	Use senses to come back into body
 
@@ -136,6 +154,8 @@ Here are some ways you can soothe yourself when feeling flooded
 
 ### Accept Bids of Repair
 
+![](../figures/repair.png){width=40% fig-align="center"}
+
 -	Fights and tension are going to happen. Consider if it is something that needs to be discussed further and go through the steps of fighting fair.
 
 -	Be _aware_ of the ways you personally keep a fight going, such as stonewalling, silent treatment etc
@@ -145,6 +165,7 @@ Here are some ways you can soothe yourself when feeling flooded
 -	Be willing to accept the attempt of repair without dragging it back into the trenches even if you are still a little annoyed. _Accept influence_ rather than digging into your point.
 
 ## Building Lasting Connection
+![](../figures/lasting_connection.png){width=30% fig-align="center"}
 
 -	Nurture Fondness and admiration: maintain and cultivate respect for each other and acknowledge and honor one another’s worth and strengths and talk about them
 
@@ -169,9 +190,11 @@ Here are some ways you can soothe yourself when feeling flooded
 -	Showing _effort_ over perfection is everything!
 
 ## Resources
--	The Seven Principles For Making Marriage Work, Dr. John Gottman
--	Hold Me Tight Workbook, Dr. Sue Johnson
--	Not What I Expected: Hope and Help for Parents of Atypical Children, Dr. Rita Eichenstein
--	Fair Play, Eve Rodsky
+-	[The Seven Principles For Making Marriage Work, Dr. John Gottman](https://www.amazon.com/Seven-Principles-Making-Marriage-Work/dp/0553447718)
+-	[Hold Me Tight Workbook, Dr. Sue Johnson](https://www.amazon.com/Hold-Me-Tight-Workbook-Lifetime/dp/031644023X)
+-	[Not What I Expected: Hope and Help for Parents of Atypical Children, Dr. Rita Eichenstein](https://www.amazon.com/Not-What-Expected-Atypical-Children/dp/B01LTHXK0O)
+-	[Fair Play, Eve Rodsky](https://www.everodsky.com/fair-play)
 
- 
+## Up Next
+
+With a fuller toolbox to handle conversations with your partner, you can now navigate to the [Home Page](../../index.qmd) for a list of all the blogs, or proceed to the next blog in the KARES Library: [Understanding PDA in Neurodivergent Youth](../pda/pda.qmd)

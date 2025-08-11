@@ -1,16 +1,22 @@
 ---
 title: "Why is there reluctance to Use AAC?"
-subtitle: "Shifting our Mindset on AAC (Part 3)"
+subtitle: "Caitlin Burke, M.S., CCC-SLP"
 author: "Svetlana Djirackor"
 date: "2025-06-26"
 categories: [clinicians, families, AAC]
 ---
 
-![](../figures/reluctance.png){width=60% fig-align="center"}
+![](../figures/reluctance.png){width=35% fig-align="center"}
 
 >
 AAC use is crucial in communication. So, why is there still reluctance to use AAC? Let’s discuss and debunk some myths around AAC use.
->
+
+## Listen to this post
+
+<audio controls>
+  <source src="../../audio/aac/reluctance_aac_mod.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ## Myth 1
 
@@ -25,5 +31,4 @@ AAC use is crucial in communication. So, why is there still reluctance to use AA
 ### Children have to be “ready” for robust AAC systems
 **Actually:** Children should not need to prove that they are ready and worthy to use robust AAC systems. There are no prerequisite skills needed for AAC. We don’t require babies to prove that they are ready to develop spoken language – so we don’t require minimally, unreliably, or non-speaking individuals  to prove that they are ready for robust AAC systems
 
-
-With these myths now debunked, let's dive into scenarios where we see a [power imbalance when communicating with AAC users](pwr_imbalance.qmd)
+With these myths now debunked, let's dive into scenarios where we see a [power imbalance in communication between speaking individuals and AAC users](pwr_imbalance.qmd)
